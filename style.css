@@ -230,3 +230,54 @@ ul li::marker {
     color: rgb(24 20 20);
     text-decoration: none;
 }
+
+/* Language skills###########
+############################## */
+.language-skills {
+    width: 300px;
+    margin: 40px auto 20px;
+}
+
+.font {
+    font-size: 20px;
+    font-weight: 500px;
+    letter-spacing: 0.2em;
+    color: rgb(24 20 20);
+}
+
+.UKRAINE {
+    background: linear-gradient(to right, rgb(255, 149, 0) 0 90%, rgb(197, 195, 195) 95% 100% );
+}
+
+.ENGLISH {
+    background: linear-gradient(to right, rgb(255, 149, 0) 0 60%, rgb(197, 195, 195) 65% 100% );
+}
+
+.russia {
+    background: linear-gradient(to right, rgb(255, 149, 0) 0 2%, rgb(197, 195, 195) 5% 100% );
+}
+
+/* Hobbies###########
+############################## */
+.hobbies {
+    box-sizing: border-box;
+    width: 400px;
+    margin: 20px auto;
+}
+
+.hobbies1 {
+    display: inline-block;
+    width: 49%;
+    margin: 0;
+}
+
+.hobbies2 {
+    display: inline-block;
+    width: 49%;
+    margin: 0;
+}
+
+.sport {
+    font-size: 20px;
+    color: red;
+}
