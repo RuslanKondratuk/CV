@@ -209,18 +209,22 @@ ul li::marker {
 .contact-container {
     width: 280px;
     display: flex;
-    justify-content: space-between;
-    margin: 40px auto 20px;
+    justify-content: center;
+    margin: 40px 0px 20px 40px;
     text-align: justify;
 }
 
 .logo {
     width: 40px;
+    display: block;
+    margin-top: 20px;
+    text-align: left;
 }
 
 
 .contact-text {
-    margin: 0;
+    display: block;
+    margin: 20px 0 20px 0px;
     font-size: 20px;
     font-weight: 400px;
     color: rgb(24 20 20);
