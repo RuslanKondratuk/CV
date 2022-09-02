@@ -155,8 +155,11 @@ ul li::marker {
 
 .sidebar {
     width: 400px;
-    background-color: rgb(118, 118, 118);
+    background-color: rgb(172 172 172);
 }
+
+/* Photo with name###########
+############################## */
 
 .image {
     position: relative;
@@ -192,3 +195,34 @@ ul li::marker {
     left: 50px;
 }
 
+/* Contact###########
+############################## */
+
+.position-title-sidebar {
+    width: 300px;
+    margin-top: 40px;
+    background-color: rgb(255, 149, 0);
+    box-shadow: 5px 0 10px 10px rgb(183, 108, 3);
+
+}
+
+.contact-container {
+    width: 280px;
+    display: flex;
+    justify-content: space-between;
+    margin: 40px auto 20px;
+    text-align: justify;
+}
+
+.logo {
+    width: 40px;
+}
+
+
+.contact-text {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 400px;
+    color: rgb(24 20 20);
+    text-decoration: none;
+}
