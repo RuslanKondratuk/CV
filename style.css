@@ -10,6 +10,7 @@ body {
     display: flex;
     margin: 20px auto;
     flex-direction: row-reverse;
+    box-shadow: 0px 0px 20px rgba(146, 146, 146, 0.884);
 }
 .main-content {
     width: 740px;
@@ -265,19 +266,8 @@ ul li::marker {
     margin: 20px auto;
 }
 
-.hobbies1 {
+.hobbies-list {
     display: inline-block;
     width: 49%;
     margin: 0;
-}
-
-.hobbies2 {
-    display: inline-block;
-    width: 49%;
-    margin: 0;
-}
-
-.sport {
-    font-size: 20px;
-    color: red;
 }
