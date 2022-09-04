@@ -247,7 +247,7 @@ ul li::marker {
 }
 
 .UKRAINE {
-    background: linear-gradient(to right, rgb(255, 149, 0) 0 90%, rgb(197, 195, 195) 95% 100% );
+    background: linear-gradient(to right, rgb(255, 149, 0) 0 94%, rgb(197, 195, 195) 99% 100% );
 }
 
 .ENGLISH {
@@ -255,7 +255,7 @@ ul li::marker {
 }
 
 .russia {
-    background: linear-gradient(to right, rgb(255, 149, 0) 0 2%, rgb(197, 195, 195) 5% 100% );
+    background: linear-gradient(to right, rgb(255, 149, 0) 0 93%, rgb(197, 195, 195) 97% 100% );
 }
 
 /* Hobbies###########
